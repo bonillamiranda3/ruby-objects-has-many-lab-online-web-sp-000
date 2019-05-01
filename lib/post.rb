@@ -9,8 +9,7 @@ class Post
   end
 
   def self.all
-    @title = title
-    @@all << self
+    @@all
   end
 
   def author_name
