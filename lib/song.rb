@@ -10,7 +10,7 @@ class Song
 
   def self.all
     @all
-  end  
+  end
 
   def song_name
     if self.song.nil?
