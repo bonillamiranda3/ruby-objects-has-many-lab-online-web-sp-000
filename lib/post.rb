@@ -20,5 +20,5 @@ class Post
       self.author.name
     end
   end
-  
+
 end
